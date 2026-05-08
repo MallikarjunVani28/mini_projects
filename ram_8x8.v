@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    16:59:52 04/14/2026 
-// Design Name: 
-// Module Name:    ram_8x8 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module ram_8x8(input clk,rst,wr_ena,input [2:0] wr_addr,input [7:0] data_in,input  rd_ena,input [2:0] rd_addr,output reg [7:0] data_out
     );
 	 //creating internal memory

@@ -1,26 +1,6 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   17:21:32 04/14/2026
-// Design Name:   ram_8x8
-// Module Name:   /home/mallikarjun/Desktop/RAM_8x8/ram_8x8_tb.v
-// Project Name:  RAM_8x8
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: ram_8x8
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
+
 
 module ram_8x8_tb;
 
